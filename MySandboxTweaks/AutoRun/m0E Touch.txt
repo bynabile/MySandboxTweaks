@@ -1,0 +1,11 @@
+====================================================
+      Welcome to MySandboxTweaks!
+
+      Your Sandbox is now optimized and ready.
+      All visual tweaks have been applied.
+      AutoRun programs are launching...
+
+      Thank you for using MySandboxTweaks!
+
+      Enjoy your clean & fast sandbox environment!
+====================================================
