@@ -1,3 +1,17 @@
+ 🌐 ترجمة هذه الصفحة تلقائي
+ 
+[![English](https://img.shields.io/badge/Translate-English-blue?style=flat&logo=google-translate)](https://translate.google.com/translate?sl=auto&tl=en&u=https://raw.githubusercontent.com/bynabile/MySandboxTweaks/main/README.md)
+[![中文](https://img.shields.io/badge/Translate-中文-red?style=flat&logo=google-translate)](https://translate.google.com/translate?sl=auto&tl=zh-CN&u=https://raw.githubusercontent.com/bynabile/MySandboxTweaks/main/README.md)
+[![Español](https://img.shields.io/badge/Translate-Español-orange?style=flat&logo=google-translate)](https://translate.google.com/translate?sl=auto&tl=es&u=https://raw.githubusercontent.com/bynabile/MySandboxTweaks/main/README.md)
+[![हिन्दी](https://img.shields.io/badge/Translate-हिन्दी-yellow?style=flat&logo=google-translate)](https://translate.google.com/translate?sl=auto&tl=hi&u=https://raw.githubusercontent.com/bynabile/MySandboxTweaks/main/README.md)
+[![Português](https://img.shields.io/badge/Translate-Português-brightgreen?style=flat&logo=google-translate)](https://translate.google.com/translate?sl=auto&tl=pt&u=https://raw.githubusercontent.com/bynabile/MySandboxTweaks/main/README.md)
+[![Русский](https://img.shields.io/badge/Translate-Русский-lightgrey?style=flat&logo=google-translate)](https://translate.google.com/translate?sl=auto&tl=ru&u=https://raw.githubusercontent.com/bynabile/MySandboxTweaks/main/README.md)
+[![日本語](https://img.shields.io/badge/Translate-日本語-purple?style=flat&logo=google-translate)](https://translate.google.com/translate?sl=auto&tl=ja&u=https://raw.githubusercontent.com/bynabile/MySandboxTweaks/main/README.md)
+[![Français](https://img.shields.io/badge/Translate-Français-darkblue?style=flat&logo=google-translate)](https://translate.google.com/translate?sl=auto&tl=fr&u=https://raw.githubusercontent.com/bynabile/MySandboxTweaks/main/README.md)
+[![Deutsch](https://img.shields.io/badge/Translate-Deutsch-black?style=flat&logo=google-translate)](https://translate.google.com/translate?sl=auto&tl=de&u=https://raw.githubusercontent.com/bynabile/MySandboxTweaks/main/README.md)
+
+---
+
 # 🛡️ MySandboxTweaks – تخصيص متقدم لـ Windows Sandbox
 
 أداة شاملة لتحويل بيئة Windows Sandbox الافتراضية إلى بيئة عمل خفيفة، مظلّمة، خالية من المشتتات، مع تشغيل تلقائي ذكي للتطبيقات والسكربتات.
