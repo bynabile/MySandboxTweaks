@@ -13,7 +13,7 @@
     <MappedFolder>
       <HostFolder>C:\MySandboxTweaks</HostFolder>
       <SandboxFolder>C:\SandboxFiles</SandboxFolder>
-      <ReadOnly>true</ReadOnly>
+      <ReadOnly>True</ReadOnly>
     </MappedFolder>
   </MappedFolders>
 
